@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Geladeira Frost Free Duplex Inox 375L",
+    "category": "Cozinha",
+    "categorySlug": "cozinha",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "Pouco Uso",
+    "priceOriginal": "R$ 3.200",
+    "price": "R$ 1.850",
+    "description": "Desapego devido a mudança para apartamento mobiliado que já possui geladeira embutida. Aparelho extremamente silencioso, gela rápido, borrachas de vedação perfeitas e prateleiras de vidro temperado sem trincos.",
+    "specs": [
+      "Capacidade total: 375 Litros (Freezer 86L + Refrigerador 289L)",
+      "Tecnologia Frost Free: Não precisa descongelar nunca",
+      "Dimensões: 169 cm (A) x 62 cm (L) x 71 cm (P)",
+      "Tempo de uso: 1 ano e 2 meses de funcionamento impecável",
+      "Retirada: Desço pelo elevador de serviço até o estacionamento"
+    ],
+    "images": ["images/1.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Máquina de Lavar e Secar 11kg Front Load",
+    "category": "Lavanderia",
+    "categorySlug": "lavanderia",
+    "status": "disponivel",
+    "voltage": "220V",
+    "condition": "Impecável",
+    "priceOriginal": "R$ 3.890",
+    "price": "R$ 2.100",
+    "description": "Lavadora e Secadora inteligente de alta performance. Lava 11kg e seca 7kg. Nunca deu qualquer problema técnico, motor inverter super silencioso com amortecedores 100% firmes (não trepida na centrifugação). Acompanha mangueira de entrada e saída originais.",
+    "specs": [
+      "Capacidade: 11kg Lavagem / 7kg Secagem",
+      "Ciclo rápido 15 min e função de higienização a vapor",
+      "Dimensões: 85 cm (A) x 60 cm (L) x 65 cm (P)",
+      "Tempo de uso: 10 meses de uso leve (apenas casal)",
+      "Acompanha: Parafusos de transporte para mudança segura"
+    ],
+    "images": ["images/2.jpg"]
+  },
+  {
+    "id": 3,
+    "title": "Micro-ondas Espelhado 30L Inox",
+    "category": "Cozinha",
+    "categorySlug": "cozinha",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "1 Ano de Uso",
+    "priceOriginal": "R$ 699",
+    "price": "R$ 380",
+    "description": "Micro-ondas com porta inteiramente espelhada reflexiva, trazendo visual requintado para a cozinha. Parte interna esmaltada sem manchas de gordura e prato giratório íntegro. Usado basicamente para esquentar refeições rápidas e café.",
+    "specs": [
+      "Capacidade: 30 Litros de volume útil",
+      "Potência: 900W com 10 níveis reguláveis",
+      "Função Tira Odor e Descongelamento por peso",
+      "Dimensões: 30 cm (A) x 53 cm (L) x 40 cm (P)",
+      "Acessórios: Manual impresso e prato de vidro temperado original"
+    ],
+    "images": ["images/3.jpg"]
+  },
+  {
+    "id": 4,
+    "title": "Air Fryer Digital 4L Fritadeira Sem Óleo",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "reservado",
+    "voltage": "110V",
+    "condition": "Seminova",
+    "priceOriginal": "R$ 480",
+    "price": "R$ 240",
+    "description": "Fritadeira a ar com painel digital touch. O cesto antiaderente está totalmente íntegro, lavado somente com esponja macia sem arranhões. Item no momento com intenção de compra reservada, mas aceito lista de espera.",
+    "specs": [
+      "Capacidade do cesto: 4.0 Litros (ideal para famílias)",
+      "Timer sonoro até 60 minutos com desligamento automático",
+      "Temperatura ajustável de 80°C até 200°C",
+      "Tempo de uso: Apenas 6 meses (pouquíssimo usada)",
+      "Voltagem: 110V / Tomada 20A padrão"
+    ],
+    "images": ["images/4.jpg"]
+  },
+  {
+    "id": 5,
+    "title": "Cooktop Indução 4 Bocas Vitrocerâmico",
+    "category": "Cozinha",
+    "categorySlug": "cozinha",
+    "status": "disponivel",
+    "voltage": "220V",
+    "condition": "Excelente",
+    "priceOriginal": "R$ 1.550",
+    "price": "R$ 790",
+    "description": "Cooktop de indução ultra veloz: ferve 1 litro de água em menos de 2 minutos. Superfície vitrocerâmica super plana e fácil de limpar. Seguro pois só aquece com o contato de panelas magnéticas e desliga sozinho ao retirar a panela.",
+    "specs": [
+      "Zonas de cocção: 4 zonas com níveis independentes (1 a 9)",
+      "Função Turbo Booster para aceleração máxima de calor",
+      "Trava de segurança infantil e indicador de calor residual",
+      "Dimensões de corte: 56 cm x 49 cm (Padrão de nicho de bancada)",
+      "Voltagem: 220V monofásico ou bifásico"
+    ],
+    "images": ["images/5.jpg"]
+  },
+  {
+    "id": 6,
+    "title": "Aspirador de Pó Vertical Sem Fio 2 em 1",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "Bivolt",
+    "condition": "Bateria 100%",
+    "priceOriginal": "R$ 599",
+    "price": "R$ 320",
+    "description": "Aspirador sem fio leve e muito prático para o dia a dia. Transforma-se em aspirador portátil de mão para sofás e interior de veículos com apenas um clique. Bateria retém carga perfeitamente como nova.",
+    "specs": [
+      "Bateria de Lítio: Autonomia de até 45 minutos no modo normal",
+      "Iluminação frontal em LED na escova para enxergar debaixo de móveis",
+      "Filtro HEPA que retém ácaros e poeira fina lavável com água",
+      "Carregador bivolt original incluso",
+      "Articulação 180° para manobras suaves entre cadeiras"
+    ],
+    "images": ["images/6.jpg"]
+  },
+  {
+    "id": 7,
+    "title": "Cafeteira Espresso Automática 19 Bar",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "Com Acessórios",
+    "priceOriginal": "R$ 890",
+    "price": "R$ 450",
+    "description": "Para os amantes de café especial. Pressão profissional de 19 bar que extrai espresso espesso com crema densa e aveludada. Acompanha cachimbo com filtros para dose simples, dupla e sachê, além de calcador original.",
+    "specs": [
+      "Pressão: 19 Bar Bomba Italiana genuína",
+      "Bico de vapor para texturizar leite para latte e cappuccino",
+      "Bandeja coletora de pingos em aço inox removível",
+      "Reservatório de água transparente de 1.5L",
+      "Descalcificação em dia realizada sempre com água mineral"
+    ],
+    "images": ["images/7.jpg"]
+  },
+  {
+    "id": 8,
+    "title": "Adega Climatizada 12 Garrafas Termoelétrica",
+    "category": "Climatização & Bar",
+    "categorySlug": "climatizacao",
+    "status": "disponivel",
+    "voltage": "Bivolt",
+    "condition": "Painel Digital",
+    "priceOriginal": "R$ 1.100",
+    "price": "R$ 580",
+    "description": "Adega residencial silenciosa com sistema termoelétrico livre de vibrações (o que preserva as propriedades dos vinhos). Porta em vidro temperado com proteção contra luz externa e puxador embutido ergonômico.",
+    "specs": [
+      "Capacidade: 12 garrafas padrão Bordeaux",
+      "Faixa de temperatura: 10°C a 18°C ajustável por toque externo",
+      "Iluminação interna suave em LED azul com botão liga/desliga",
+      "Prateleiras de aço cromado deslizantes e ergonômicas",
+      "Consumo elétrico baixíssimo classe A"
+    ],
+    "images": ["images/8.jpg"]
+  },
+  {
+    "id": 9,
+    "title": "Forno Elétrico de Embutir 60L Inox",
+    "category": "Cozinha",
+    "categorySlug": "cozinha",
+    "status": "disponivel",
+    "voltage": "220V",
+    "condition": "Com Grill",
+    "priceOriginal": "R$ 1.650",
+    "price": "R$ 850",
+    "description": "Forno de embutir espaçoso de 60 litros com função Grill dourador e convecção. Asse tortas, pães e carnes com distribuição térmica uniforme. Parede interna esmaltada com tecnologia de fácil limpeza.",
+    "specs": [
+      "Capacidade útil: 60 Litros",
+      "Funções: Aquecimento superior, inferior, grill e timer sonoro de 120min",
+      "Vidro duplo desmontável na porta para higienização rápida",
+      "Dimensões do nicho de embutir: 58 cm (A) x 56 cm (L) x 55 cm (P)",
+      "Acompanha 2 grelhas com alturas ajustáveis e 1 bandeja coletora de gordura"
+    ],
+    "images": ["images/9.jpg"]
+  }
+]

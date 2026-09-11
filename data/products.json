@@ -1,182 +1,433 @@
 [
   {
     "id": 1,
-    "title": "Geladeira Frost Free Duplex Inox 375L",
+    "title": "Geladeira Electrolux 454L Frost Free Inverse Inox",
     "category": "Cozinha",
     "categorySlug": "cozinha",
     "status": "disponivel",
     "voltage": "110V",
-    "condition": "Pouco Uso",
-    "priceOriginal": "R$ 3.200",
-    "price": "R$ 1.850",
-    "description": "Desapego devido a mudança para apartamento mobiliado que já possui geladeira embutida. Aparelho extremamente silencioso, gela rápido, borrachas de vedação perfeitas e prateleiras de vidro temperado sem trincos.",
+    "condition": "6 anos de uso",
+    "priceOriginal": "R$ 1.800",
+    "price": "R$ 1.499",
+    "description": "Modelo DB53X. 6 anos de uso, porém funciona e gela perfeitamente, nunca deu defeito.",
     "specs": [
-      "Capacidade total: 375 Litros (Freezer 86L + Refrigerador 289L)",
-      "Tecnologia Frost Free: Não precisa descongelar nunca",
-      "Dimensões: 169 cm (A) x 62 cm (L) x 71 cm (P)",
-      "Tempo de uso: 1 ano e 2 meses de funcionamento impecável",
-      "Retirada: Desço pelo elevador de serviço até o estacionamento"
+      "Capacidade total: 454L (Refrigerador 310L + Freezer 144L)",
+      "Frost Free com fluxo de ar contínuo (Inverse - freezer embaixo)",
+      "Acabamento inox, prateleiras de vidro temperado",
+      "Compartimento extra frio e gavetão de frutas e legumes",
+      "Dimensões aprox.: 190 x 70 x 80 cm"
     ],
-    "images": ["images/1.jpg"]
+    "images": [
+      "images/geladeira/1.jpg",
+      "images/geladeira/2.jpg",
+      "images/geladeira/3.jpg",
+      "images/geladeira/4.jpg",
+      "images/geladeira/5.jpg",
+      "images/geladeira/6.jpg",
+      "images/geladeira/7.jpg",
+      "images/geladeira/8.jpg"
+    ]
   },
   {
     "id": 2,
-    "title": "Máquina de Lavar e Secar 11kg Front Load",
-    "category": "Lavanderia",
-    "categorySlug": "lavanderia",
+    "title": "Lava-louças Brastemp 15 Serviços com Smart Sensor",
+    "category": "Cozinha",
+    "categorySlug": "cozinha",
     "status": "disponivel",
-    "voltage": "220V",
-    "condition": "Impecável",
-    "priceOriginal": "R$ 3.890",
-    "price": "R$ 2.100",
-    "description": "Lavadora e Secadora inteligente de alta performance. Lava 11kg e seca 7kg. Nunca deu qualquer problema técnico, motor inverter super silencioso com amortecedores 100% firmes (não trepida na centrifugação). Acompanha mangueira de entrada e saída originais.",
+    "voltage": "110V",
+    "condition": "1 ano de uso",
+    "priceOriginal": "R$ 2.200",
+    "price": "R$ 1.999",
+    "description": "Modelo BLF61AB. 1 ano de uso.",
     "specs": [
-      "Capacidade: 11kg Lavagem / 7kg Secagem",
-      "Ciclo rápido 15 min e função de higienização a vapor",
-      "Dimensões: 85 cm (A) x 60 cm (L) x 65 cm (P)",
-      "Tempo de uso: 10 meses de uso leve (apenas casal)",
-      "Acompanha: Parafusos de transporte para mudança segura"
+      "Capacidade para 15 serviços",
+      "Smart Sensor: detecta a sujeira e ajusta o ciclo automaticamente",
+      "Economia de água e energia em cada ciclo",
+      "Instalação de piso ou embutida",
+      "Dimensões aprox.: 85 x 60 x 59 cm"
     ],
-    "images": ["images/2.jpg"]
+    "images": [
+      "images/lava-loucas/1.jpg",
+      "images/lava-loucas/2.jpg",
+      "images/lava-loucas/3.jpg",
+      "images/lava-loucas/4.jpg",
+      "images/lava-loucas/5.jpg",
+      "images/lava-loucas/6.jpg",
+      "images/lava-loucas/7.jpg",
+      "images/lava-loucas/8.jpg"
+    ]
   },
   {
     "id": 3,
-    "title": "Micro-ondas Espelhado 30L Inox",
-    "category": "Cozinha",
-    "categorySlug": "cozinha",
+    "title": "Air Fryer Midea 4,5L Widemax Cyclone",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
     "status": "disponivel",
     "voltage": "110V",
-    "condition": "1 Ano de Uso",
-    "priceOriginal": "R$ 699",
-    "price": "R$ 380",
-    "description": "Micro-ondas com porta inteiramente espelhada reflexiva, trazendo visual requintado para a cozinha. Parte interna esmaltada sem manchas de gordura e prato giratório íntegro. Usado basicamente para esquentar refeições rápidas e café.",
+    "condition": "Na garantia",
+    "priceOriginal": "R$ 200",
+    "price": "R$ 159",
+    "description": "Modelo FWM45P1, cor preto e inox. 7 meses de uso, ainda está na garantia.",
     "specs": [
-      "Capacidade: 30 Litros de volume útil",
-      "Potência: 900W com 10 níveis reguláveis",
-      "Função Tira Odor e Descongelamento por peso",
-      "Dimensões: 30 cm (A) x 53 cm (L) x 40 cm (P)",
-      "Acessórios: Manual impresso e prato de vidro temperado original"
+      "Capacidade: 4,5 Litros",
+      "Temperatura ajustável entre 80°C e 200°C",
+      "Superfície interna antiaderente, cesto em alumínio",
+      "Acabamento externo em inox",
+      "Potência: 1.500W"
     ],
-    "images": ["images/3.jpg"]
+    "images": [
+      "images/air-fryer/1.jpg",
+      "images/air-fryer/2.jpg",
+      "images/air-fryer/3.jpg",
+      "images/air-fryer/4.jpg"
+    ]
   },
   {
     "id": 4,
-    "title": "Air Fryer Digital 4L Fritadeira Sem Óleo",
+    "title": "Liquidificador Philips Walita 1400W",
     "category": "Portáteis",
     "categorySlug": "portateis",
-    "status": "reservado",
+    "status": "disponivel",
     "voltage": "110V",
-    "condition": "Seminova",
-    "priceOriginal": "R$ 480",
-    "price": "R$ 240",
-    "description": "Fritadeira a ar com painel digital touch. O cesto antiaderente está totalmente íntegro, lavado somente com esponja macia sem arranhões. Item no momento com intenção de compra reservada, mas aceito lista de espera.",
+    "condition": "2 anos de uso",
+    "priceOriginal": "R$ 240",
+    "price": "R$ 189",
+    "description": "Modelo RI2244, Série 5000, jarra inquebrável. 2 anos de uso.",
     "specs": [
-      "Capacidade do cesto: 4.0 Litros (ideal para famílias)",
-      "Timer sonoro até 60 minutos com desligamento automático",
-      "Temperatura ajustável de 80°C até 200°C",
-      "Tempo de uso: Apenas 6 meses (pouquíssimo usada)",
-      "Voltagem: 110V / Tomada 20A padrão"
+      "Potência: 1400W",
+      "Tecnologia ProBlend com 6 lâminas removíveis em aço inox",
+      "12 velocidades e função pulsar",
+      "Jarra Tritan inquebrável de 3 litros",
+      "Autolimpeza e triturador de gelo"
     ],
-    "images": ["images/4.jpg"]
+    "images": [
+      "images/liquidificador/1.jpg",
+      "images/liquidificador/2.jpg",
+      "images/liquidificador/3.jpg"
+    ]
   },
   {
     "id": 5,
-    "title": "Cooktop Indução 4 Bocas Vitrocerâmico",
-    "category": "Cozinha",
-    "categorySlug": "cozinha",
-    "status": "disponivel",
-    "voltage": "220V",
-    "condition": "Excelente",
-    "priceOriginal": "R$ 1.550",
-    "price": "R$ 790",
-    "description": "Cooktop de indução ultra veloz: ferve 1 litro de água em menos de 2 minutos. Superfície vitrocerâmica super plana e fácil de limpar. Seguro pois só aquece com o contato de panelas magnéticas e desliga sozinho ao retirar a panela.",
-    "specs": [
-      "Zonas de cocção: 4 zonas com níveis independentes (1 a 9)",
-      "Função Turbo Booster para aceleração máxima de calor",
-      "Trava de segurança infantil e indicador de calor residual",
-      "Dimensões de corte: 56 cm x 49 cm (Padrão de nicho de bancada)",
-      "Voltagem: 220V monofásico ou bifásico"
-    ],
-    "images": ["images/5.jpg"]
-  },
-  {
-    "id": 6,
-    "title": "Aspirador de Pó Vertical Sem Fio 2 em 1",
-    "category": "Portáteis",
-    "categorySlug": "portateis",
-    "status": "disponivel",
-    "voltage": "Bivolt",
-    "condition": "Bateria 100%",
-    "priceOriginal": "R$ 599",
-    "price": "R$ 320",
-    "description": "Aspirador sem fio leve e muito prático para o dia a dia. Transforma-se em aspirador portátil de mão para sofás e interior de veículos com apenas um clique. Bateria retém carga perfeitamente como nova.",
-    "specs": [
-      "Bateria de Lítio: Autonomia de até 45 minutos no modo normal",
-      "Iluminação frontal em LED na escova para enxergar debaixo de móveis",
-      "Filtro HEPA que retém ácaros e poeira fina lavável com água",
-      "Carregador bivolt original incluso",
-      "Articulação 180° para manobras suaves entre cadeiras"
-    ],
-    "images": ["images/6.jpg"]
-  },
-  {
-    "id": 7,
-    "title": "Cafeteira Espresso Automática 19 Bar",
+    "title": "Panela Elétrica Fun Kitchen 4L",
     "category": "Portáteis",
     "categorySlug": "portateis",
     "status": "disponivel",
     "voltage": "110V",
-    "condition": "Com Acessórios",
-    "priceOriginal": "R$ 890",
-    "price": "R$ 450",
-    "description": "Para os amantes de café especial. Pressão profissional de 19 bar que extrai espresso espesso com crema densa e aveludada. Acompanha cachimbo com filtros para dose simples, dupla e sachê, além de calcador original.",
+    "condition": "Pouco uso",
+    "priceOriginal": "R$ 140",
+    "price": "R$ 89",
+    "description": "Panela Elétrica Quadrada 4L, modelo CH40. Pouco uso.",
     "specs": [
-      "Pressão: 19 Bar Bomba Italiana genuína",
-      "Bico de vapor para texturizar leite para latte e cappuccino",
-      "Bandeja coletora de pingos em aço inox removível",
-      "Reservatório de água transparente de 1.5L",
-      "Descalcificação em dia realizada sempre com água mineral"
+      "Capacidade: 4 litros",
+      "Potência: 1500W",
+      "Funções: cozinha, aquece, assa, tosta, gratina, grelha e refoga",
+      "Revestimento antiaderente cerâmico",
+      "Tampa de vidro temperado, alças com toque frio e base antiderrapante"
     ],
-    "images": ["images/7.jpg"]
+    "images": [
+      "images/panela-eletrica/1.jpg",
+      "images/panela-eletrica/2.jpg",
+      "images/panela-eletrica/3.jpg"
+    ]
   },
   {
-    "id": 8,
-    "title": "Adega Climatizada 12 Garrafas Termoelétrica",
-    "category": "Climatização & Bar",
-    "categorySlug": "climatizacao",
+    "id": 6,
+    "title": "Sanduicheira Cadence Click 750W",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
     "status": "disponivel",
-    "voltage": "Bivolt",
-    "condition": "Painel Digital",
-    "priceOriginal": "R$ 1.100",
-    "price": "R$ 580",
-    "description": "Adega residencial silenciosa com sistema termoelétrico livre de vibrações (o que preserva as propriedades dos vinhos). Porta em vidro temperado com proteção contra luz externa e puxador embutido ergonômico.",
+    "voltage": "110V",
+    "condition": "8 meses de uso",
+    "priceOriginal": "R$ 50",
+    "price": "R$ 39",
+    "description": "8 meses de uso.",
     "specs": [
-      "Capacidade: 12 garrafas padrão Bordeaux",
-      "Faixa de temperatura: 10°C a 18°C ajustável por toque externo",
-      "Iluminação interna suave em LED azul com botão liga/desliga",
-      "Prateleiras de aço cromado deslizantes e ergonômicas",
-      "Consumo elétrico baixíssimo classe A"
+      "Potência: 750W",
+      "Botão liga/desliga com LEDs indicadores",
+      "Chapas antiaderentes e profundas",
+      "Pés embutidos mais firmes, não tomba",
+      "Alça embutida e base porta-fio"
     ],
-    "images": ["images/8.jpg"]
+    "images": [
+      "images/sanduicheira/1.jpg",
+      "images/sanduicheira/2.jpg"
+    ]
   },
   {
-    "id": 9,
-    "title": "Forno Elétrico de Embutir 60L Inox",
+    "id": 7,
+    "title": "Micro-ondas LG Grill 30L Espelhado",
     "category": "Cozinha",
     "categorySlug": "cozinha",
     "status": "disponivel",
-    "voltage": "220V",
-    "condition": "Com Grill",
-    "priceOriginal": "R$ 1.650",
-    "price": "R$ 850",
-    "description": "Forno de embutir espaçoso de 60 litros com função Grill dourador e convecção. Asse tortas, pães e carnes com distribuição térmica uniforme. Parede interna esmaltada com tecnologia de fácil limpeza.",
+    "voltage": "110V",
+    "condition": "6 anos de uso",
+    "priceOriginal": "R$ 220",
+    "price": "R$ 189",
+    "description": "Modelo MH7053R.FS1FLGZ, cor prata espelhado. 6 anos de uso.",
     "specs": [
-      "Capacidade útil: 60 Litros",
-      "Funções: Aquecimento superior, inferior, grill e timer sonoro de 120min",
-      "Vidro duplo desmontável na porta para higienização rápida",
-      "Dimensões do nicho de embutir: 58 cm (A) x 56 cm (L) x 55 cm (P)",
-      "Acompanha 2 grelhas com alturas ajustáveis e 1 bandeja coletora de gordura"
+      "Capacidade: 30 litros",
+      "Potência: 900W (grill 1000W)",
+      "Revestimento interno EasyClean",
+      "Prato giratório e receitas pré-programadas",
+      "Porta espelhada"
     ],
-    "images": ["images/9.jpg"]
+    "images": [
+      "images/microondas/1.jpg",
+      "images/microondas/2.jpg",
+      "images/microondas/3.jpg",
+      "images/microondas/4.jpg",
+      "images/microondas/5.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Kit Mixers e Batedeira",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "4 anos de uso",
+    "priceOriginal": "R$ 110",
+    "price": "R$ 79",
+    "description": "Kit com Mixer Philco Inox 750W, Mixer Philips 400W e Batedeira Mondial. 4 anos de uso.",
+    "specs": [
+      "Mixer Philco Inox: potência 750W",
+      "Mixer Philips: potência 400W",
+      "Batedeira Mondial com múltiplas velocidades",
+      "Ideal para receitas do dia a dia"
+    ],
+    "images": [
+      "images/kit/1.jpg",
+      "images/kit/2.jpg",
+      "images/kit/3.jpg",
+      "images/kit/4.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Máquina de Lavar Electrolux 12kg Turbo Economia",
+    "category": "Lavanderia",
+    "categorySlug": "lavanderia",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "6 anos de uso",
+    "priceOriginal": "R$ 380",
+    "price": "R$ 329",
+    "description": "Modelo LAC12, branca, cesto inox. 6 anos de uso, possui um defeito intermitente em que os ciclos ficam em loop, mas é possível usar normalmente.",
+    "specs": [
+      "Capacidade: 12kg",
+      "Cesto em aço inox",
+      "Tecnologia Silent Control (uso silencioso)",
+      "12 programas de lavagem",
+      "Dispenser autolimpante Jet&Clean"
+    ],
+    "images": [
+      "images/maquina-lavar/1.jpg",
+      "images/maquina-lavar/2.jpg",
+      "images/maquina-lavar/3.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Panela de Pressão Elétrica Electrolux 6L",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "6 anos de uso",
+    "priceOriginal": "R$ 220",
+    "price": "R$ 149",
+    "description": "Modelo PCC20, 1000W. 6 anos de uso, com marcas de oxidação externamente, mas tudo funciona perfeitamente.",
+    "specs": [
+      "Capacidade: 6 litros",
+      "3 níveis de pressão (baixo, médio e alto)",
+      "15 receitas pré-programadas",
+      "10 dispositivos de segurança, incluindo travamento automático da tampa",
+      "Display LED, timer de até 24h e função manter aquecido"
+    ],
+    "images": [
+      "images/panela-pressao/1.jpg",
+      "images/panela-pressao/2.jpg",
+      "images/panela-pressao/3.jpg",
+      "images/panela-pressao/4.jpg",
+      "images/panela-pressao/5.jpg",
+      "images/panela-pressao/6.jpg",
+      "images/panela-pressao/7.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Aspirador de Pó Vertical Electrolux 2 em 1",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "Pouco uso",
+    "priceOriginal": "R$ 110",
+    "price": "R$ 69",
+    "description": "Modelo STK14B, aspirador vertical 2 em 1 com filtro HEPA. Pouco uso.",
+    "specs": [
+      "Potência: 1300W",
+      "Filtro HEPA Allergy Protect",
+      "Bocal 180° para cantos de difícil acesso",
+      "Reservatório com 1,6L de capacidade",
+      "Cabo elétrico de 5 metros"
+    ],
+    "images": [
+      "images/aspirador/1.jpg",
+      "images/aspirador/2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Vaporizador Higienizador Black+Decker",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "Pouco uso",
+    "priceOriginal": "R$ 80",
+    "price": "R$ 49",
+    "description": "Modelo BDV2000, vaporizador portátil Perfect Steam. Pouco uso.",
+    "specs": [
+      "Potência: 1200W",
+      "Higienização a vapor sem produtos químicos",
+      "Uso versátil em estofados, colchões e tecidos"
+    ],
+    "images": [
+      "images/vaporizador/1.jpg",
+      "images/vaporizador/2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Ferro de Passar Roupa a Seco Black+Decker",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "6 anos de uso",
+    "priceOriginal": "R$ 50",
+    "price": "R$ 39",
+    "description": "Modelo VFA1110TM2, 6 anos de uso.",
+    "specs": [
+      "Potência: 1100W",
+      "7 níveis de temperatura, de tecidos delicados a pesados",
+      "Base em alumínio polido que desliza suavemente",
+      "Controle frontal para ajuste rápido de calor"
+    ],
+    "images": [
+      "images/ferro/1.jpg",
+      "images/ferro/2.jpg",
+      "images/ferro/3.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Massageador Elétrico Orbit 2600",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "Pouco uso",
+    "priceOriginal": "R$ 80",
+    "price": "R$ 69",
+    "description": "Massageador com fio. Pouco uso.",
+    "specs": [
+      "Rotação orbital de até 2.600 RPM",
+      "Controle de velocidade por botão giratório",
+      "Acompanha ponteiras intercambiáveis (ondas, esferas, lixa para calosidades e rede de proteção)"
+    ],
+    "images": [
+      "images/massageador/1.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Climatizador de Ar Frio Midea Liva",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "4 anos de uso",
+    "priceOriginal": "R$ 220",
+    "price": "R$ 179",
+    "description": "Modelo AKAF1. 4 anos de uso.",
+    "specs": [
+      "3 velocidades (baixo, médio e alto)",
+      "Modos de ventilação: dormir, normal e eco",
+      "Filtro colmeia com 3 níveis de filtragem",
+      "Controle remoto e timer de até 7 horas",
+      "Tanque removível de 4,5 litros, com 2 caixas de gelo"
+    ],
+    "images": [
+      "images/climatizador/1.jpg",
+      "images/climatizador/2.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Aquecedor Elétrico Termoventilador Equation Flag",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "1 ano de uso",
+    "priceOriginal": "R$ 60",
+    "price": "R$ 49",
+    "description": "1500W, com 2 níveis de aquecimento. 1 ano de uso.",
+    "specs": [
+      "Potência: 1500W, aquece cômodos de até 15m²",
+      "2 níveis de aquecimento",
+      "Termoventilador com distribuição rápida de calor",
+      "Alça embutida para transporte",
+      "Formato compacto"
+    ],
+    "images": [
+      "images/aquecedor-ventilador/1.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Aquecedor Quartzo Ventisol",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "1 ano de uso",
+    "priceOriginal": "R$ 60",
+    "price": "R$ 49",
+    "description": "1 ano de uso.",
+    "specs": [
+      "2 tubos de quartzo para distribuição eficaz do calor",
+      "2 níveis de aquecimento, seleção na parte frontal",
+      "Grade de proteção em aço e base estável",
+      "Desliga automaticamente em caso de superaquecimento"
+    ],
+    "images": [
+      "images/aquecedor-quartzo/1.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Ventilador de Coluna Mallory Delfos",
+    "category": "Portáteis",
+    "categorySlug": "portateis",
+    "status": "disponivel",
+    "voltage": "110V",
+    "condition": "2 anos de uso",
+    "priceOriginal": "R$ 120",
+    "price": "R$ 89",
+    "description": "Modelo Delfos TS+ 40cm, silencioso. 2 anos de uso.",
+    "specs": [
+      "Potência: 126W, hélice de 6 pás",
+      "3 velocidades",
+      "Oscilação horizontal e inclinação vertical",
+      "Grade especial sistema TS, baixo ruído",
+      "Coluna ajustável e totalmente desmontável"
+    ],
+    "images": [
+      "images/ventilador/1.jpg"
+    ]
   }
 ]

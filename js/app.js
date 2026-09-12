@@ -60,12 +60,14 @@ async function init() {
 }
 
 function renderCategoryFilters() {
+  const available = products.filter(p => p.status !== 'indisponivel');
+
   const seen = new Map();
-  products.forEach(p => {
+  available.forEach(p => {
     if (!seen.has(p.categorySlug)) seen.set(p.categorySlug, p.category);
   });
 
-  const chips = [`<button class="${CAT_BTN_ACTIVE}" data-cat="all">Todos (${products.length})</button>`];
+  const chips = [`<button class="${CAT_BTN_ACTIVE}" data-cat="all">Todos (${available.length})</button>`];
   seen.forEach((label, slug) => {
     chips.push(`<button class="${CAT_BTN_INACTIVE}" data-cat="${slug}">${label}</button>`);
   });
@@ -118,7 +120,7 @@ function productCardHTML(item) {
 }
 
 function renderProducts() {
-  const visible = products.filter(p => activeCategory === 'all' || p.categorySlug === activeCategory);
+  const visible = products.filter(p => p.status !== 'indisponivel' && (activeCategory === 'all' || p.categorySlug === activeCategory));
   productsGrid.innerHTML = visible.map(productCardHTML).join('');
 
   productsGrid.querySelectorAll('.product-card').forEach(card => {

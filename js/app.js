@@ -157,7 +157,7 @@ function openProductModal(productId) {
   });
 
   const msg = encodeURIComponent(`Olá! Vi o anúncio do seu desapego de mudança e tenho interesse no item: "${item.title}" por ${item.price}. Ele ainda está disponível para retirada?`);
-  modalWhatsAppBtn.href = `https://wa.me/5583987238658?text=${msg}`;
+  modalWhatsAppBtn.href = `https://wa.me/5583987903792?text=${msg}`;
 
   updateCarousel();
 
